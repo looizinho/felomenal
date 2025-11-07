@@ -1,2 +1,10 @@
-# felomenal
-José Wilker interpretou Giovanni Improtta (apelido: Giová) em Senhora do Destino, um personagem ex-bicheiro e presidente da escola de samba Unidos de Vila São Miguel. O papel ficou famoso por seu jeito engraçado, por sempre usar gravata borboleta e pela sua maneira peculiar de falar, especialmente a expressão "felomenal". 
+# Felomenal – Coleção de scripts & tasks para automatizar ambientes de dev
+
+## Visão geral
+Este repositório reúne scripts e tarefas reutilizáveis para  
+- automatizar workflows de desenvolvimento local e remoto,  
+- aplicar patches com segurança,  
+- rodar comandos predefinidos via tasks e atalhos.  
+Inspirado pelo assistente “Wilker” para devs que querem foco e automação sem dor.
+
+## Estrutura
